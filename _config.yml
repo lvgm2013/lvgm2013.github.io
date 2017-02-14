@@ -1,0 +1,20 @@
+title:              阿土哥
+tagline:            只有文字、音乐、运动才能使人轻松
+description:        阿土哥的网络日志.
+url:                http://lvgm2013.github.io
+
+author:
+  name:             Gim
+  url:              https://twitter.com/lvguanming
+  email:            lvgm2013@gmail.com
+
+# GitHub Pages / Jekyll configuration
+baseurl:            ''
+permalink:          /:title/
+paginate:           5
+defaults:
+  -
+    scope:
+      path:         ''
+    values:
+      layout:       post
